@@ -1,4 +1,4 @@
-# video-game-recommender
+# Video game recommender
 Simple video game recommender based on Shiny library on R.
 
 The link to the app: 
